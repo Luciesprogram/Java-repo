@@ -16,7 +16,7 @@ public class Whatsapp {
 
     void open_app() {
         while (true) {
-            if (phone_number.equals("997879678") && otp.equals("1234")) {
+            if (phone_number.equals("99748786") && otp.equals("1234")) {
                 System.out.println("WhatsApp is opened!");
                 break;
             } else {
