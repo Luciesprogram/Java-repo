@@ -13,6 +13,6 @@ public class Constructor_ex {
 class main{
     public static void main(String[] args) {
         Constructor_ex obj = new Constructor_ex();
-        Constructor_ex obj1 = new Constructor_ex("Akbar");
+        Constructor_ex obj1 = new Constructor_ex("Vikrant");
     }
 }
