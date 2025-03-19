@@ -2,9 +2,9 @@ package Problem_solving;
 
 class emp{
     private int Emp_id = 101;
-    private String Emp_Name = "Akbar";
-    private int Salary = 20000;
-    private String Add = "xyz street";
+    private String Emp_Name = "Vikrant";
+    private int Salary = 25000;
+    private String Add = "Red street";
     private String Phone;
 
     public String getPhone(){
